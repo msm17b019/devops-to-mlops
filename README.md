@@ -12,9 +12,6 @@ The goal:
 ## 📚 Contents
 - **ML Basics** – features, labels, datasets, metrics
 - **ML Tools** – pandas, numpy, matplotlib, scikit-learn
-- **MLOps Concepts** – model versioning, pipelines, monitoring
-- **Projects** – small ML and MLOps deployments
-- **Failures & Lessons Learned**
 
 ---
 

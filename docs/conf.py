@@ -2,8 +2,8 @@
 
 # -- Project information -----------------------------------------------------
 project = 'My MLOps Journey'
-author = 'Your Name'
-release = '0.1'
+author = 'Sujeet Kumar'
+release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 extensions = ["myst_parser"]
@@ -17,5 +17,5 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
-html_theme = "alabaster"  # You can change to 'sphinx_rtd_theme' if you prefer
+html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]

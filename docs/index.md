@@ -8,3 +8,4 @@ This site documents my learning process from DevOps to MLOps — concepts, tools
 :caption: Basics of Machine Learning
 
 basics/index
+```

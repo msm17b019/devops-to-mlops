@@ -4,7 +4,7 @@
 
 Think of Features as the information you give the computer to help it make a decision.
 
-Example: If you want to predict the predict the price of a house, your features could be:
+Example: If you want to predict the price of a house, your features could be:
 - Size of the house (in square feet)
 - No of bedrooms
 - location
@@ -49,7 +49,7 @@ There are ways to measure how good your model is - especially for classification
 
 ### Accuracy
 
-Hoe often the model is correct.
+How often the model is correct.
 
 Example: If it predicts correctly 90 out of 100 times --> 90 % accuracy.
 
@@ -79,7 +79,7 @@ Examples: Detecting diseases, fraud detection, spam filtering.
 
 ### Summary
 
-Accuracy: How often you are right overall
+Accuracy: How often are you right overall
 
 Precision: When you say "This is cat", how often are you right?
 
@@ -105,13 +105,14 @@ Your model make predictions:
 
 So, 80/100 = 80 % accuracy
 
-Biggest probelm: Accuracy can be misleading if data is unbalanced (e.g., very few cats)
+Biggest problem: Accuracy can be misleading if data is unbalanced (e.g., very few cats)
 
 **Precision**: How much you trust positive predictions.
 
 When the model says cats, how often is it right?
 
 correct 'cat' predictions = 20
+
 Total 'cat' predictions = 25
 
 Precision = 20/25 = 80 %
@@ -123,6 +124,7 @@ Precision = Correctness of positive guesses.
 Out of all the real cats, how many did the model find?
 
 Correct cat predictions = 20
+
 Total actual cats = 30
 
 Recall = 20/30 = approx 67 %
@@ -133,4 +135,4 @@ Recall = coverage of actual positives.
 
 F1 = 2 × (0.80 × 0.67) / (0.80 + 0.67) = approx 0.729 = approx 72.9 %
 
-F1 score is like a refree between precision and recall - it won't let you win unless you are good at both.
+F1 score is like a referee between precision and recall - it won't let you win unless you are good at both.

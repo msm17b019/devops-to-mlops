@@ -30,14 +30,14 @@ matplotlib is the basic drawing library (line charts, bar graphs, scatter plots)
 
 seaborn is built on top of matplotlib but looks prettier and is easier for statistical graphs.
 
-You use them when you want to understand your daga visually - patterns, trends, correlations.
+You use them when you want to understand your data visually - patterns, trends, correlations.
 
 ## scikit-learn - 'training simple ML models'
 
 The easiest library to start doing ML in python.
 
 Has ready-made algorithms for:
-- classification (soan v/s not-spam)
+- classification (spam v/s not-spam)
 - regression (predicting house prices)
 - clustering (grouping customers)
 

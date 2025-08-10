@@ -1,7 +1,3 @@
----
-
-## **Example of a section index (`docs/basics/index.md`)**
-```markdown
 # Basics of Machine Learning
 
 ```{toctree}

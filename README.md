@@ -28,8 +28,6 @@ You can read it here: [**My MLOps Journey Docs**](https://devops-to-mlops.readth
 - Python
 - pandas, numpy, matplotlib, scikit-learn
 - Read the Docs
-- DevOps tools: Docker, Kubernetes, CI/CD
-- Cloud: AWS (EC2, Route 53, S3)
 
 ---
 

@@ -39,5 +39,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## ✍️ Author
-**Your Name**  
+**Sujeet Kumar**
 [LinkedIn](https://www.linkedin.com/in/i-am-sujeet-kumar/) | [GitHub](https://github.com/msm17b019)

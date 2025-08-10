@@ -20,7 +20,7 @@ The goal:
 
 ## 🚀 How I’m Hosting This
 This documentation is built with [Read the Docs](https://readthedocs.org/)  
-You can read it here: [**My MLOps Journey Docs**](https://mlops-journey.readthedocs.io) *(link will be active once deployed)*
+You can read it here: [**My MLOps Journey Docs**](https://devops-to-mlops.readthedocs.io)
 
 ---
 
@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ✍️ Author
 **Your Name**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) | [Twitter](https://twitter.com/)
+[LinkedIn](https://www.linkedin.com/in/i-am-sujeet-kumar/) | [GitHub](https://github.com/msm17b019)

@@ -18,6 +18,39 @@ The goal:
 
 ---
 
+## 🏗 Build Docs Locally
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/devops-to-mlops.git
+cd devops-to-mlops/docs/
+```
+
+### 2. Create and activate a virtual environment
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install the dependencies
+``` bash
+# upgrade pip (optional)
+pip install --upgrade pip
+
+pip install -r requirements.txt
+```
+
+### 4. Build the docs
+``` bash
+sphinx-build -b html . _build/html
+```
+
+### 5. Open in browser
+
+Open the generated HTML file - docs/_build/html/index.html
+
+---
+
 ## 🚀 How I’m Hosting This
 This documentation is built with [Read the Docs](https://readthedocs.org/)  
 You can read it here: [**My MLOps Journey Docs**](https://devops-to-mlops.readthedocs.io)

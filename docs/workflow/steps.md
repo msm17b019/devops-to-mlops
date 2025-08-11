@@ -18,7 +18,7 @@ Example: Removing broken email records, correcting typos, or converting all text
 
 The model is the method or algorithm you will use to make predictions.
 
-Example: decision trees, linear regression, neural networks.
+Example: [decision trees](../links/algo.md), [linear regression](../links/algo.md), [neural networks](../links/algo.md).
 
 ## 4. Train the model - "Cook the dish"
 

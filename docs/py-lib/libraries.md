@@ -37,9 +37,9 @@ You use them when you want to understand your data visually - patterns, trends, 
 The easiest library to start doing ML in python.
 
 Has ready-made algorithms for:
-- classification (spam v/s not-spam)
-- regression (predicting house prices)
-- clustering (grouping customers)
+- [classification](../links/algo.md) (spam v/s not-spam)
+- [regression](../links/algo.md) (predicting house prices)
+- [clustering](../links/algo.md) (grouping customers)
 
 Also has tools to split data, evaluate models, and preprocess features.
 

@@ -45,7 +45,7 @@ Good models learn patterns, not memorized answers.
 
 ## Accuracy, Precision, Recall and F1 score
 
-There are ways to measure how good your model is - especially for classification problems.
+There are ways to measure how good your model is - especially for [classification](../links/algo.md) problems.
 
 ### Accuracy
 

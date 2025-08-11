@@ -14,6 +14,8 @@ Example: Load a csv of house prices, filter houses in Bengaluru, and find averag
 
 You use pandas when you want to load data, remove duplicates, fill missing values, or sort/filter rows.
 
+More info - [pandas](https://github.com/msm17b019/pandas)
+
 ## numpy - number crunching
 
 numpy is like a super calculator for python.

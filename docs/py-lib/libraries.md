@@ -8,7 +8,7 @@ It's not the fastest language - but it's the most practical for data work.
 
 Think of pandas as Excel for python, but much faster and more powerful.
 
-Lets you store, clean and analyze data in tables (DataFrames)
+Lets you store, clean and analyze data in tables (DataFrame)
 
 Example: Load a csv of house prices, filter houses in Bengaluru, and find average price.
 
